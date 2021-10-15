@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SoleeL07
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Infrastucture as Code, Gatsby, Testing and Clean Code.
+- 📫 How to reach me in soleel.cl
